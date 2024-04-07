@@ -4,7 +4,7 @@ const produtos = [
         title: "Anel Chuveiro de Ouro Branco com 5 Diamantes",
         categoria: "anel",
         preco: 1576.08,
-        img: '/img/p1.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/p1.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -12,7 +12,7 @@ const produtos = [
         title: "Anel Solitário de Ouro com Água Marinha oval de 42 Pts",
         categoria: "anel",
         preco: 982.08,
-        img: '/img/1162230_anel-solitario-de-ouro-com-agua-marinha-oval-de-42-pts-joias-vip_z1_637873449921900929.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1162230_anel-solitario-de-ouro-com-agua-marinha-oval-de-42-pts-joias-vip_z1_637873449921900929.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -20,7 +20,7 @@ const produtos = [
         title: "Par de Brincos de Ouro com Mix de Gemas Brasileiras Naturais",
         categoria: "brinco",
         preco: 1892.88,
-        img: '/img/1127333_par-de-brincos-de-ouro-com-mix-de-gemas-brasileiras-naturais-joias-vip_z1_637455479545767774.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1127333_par-de-brincos-de-ouro-com-mix-de-gemas-brasileiras-naturais-joias-vip_z1_637455479545767774.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
 
@@ -29,7 +29,7 @@ const produtos = [
         title: "Ponto de Luz de Ouro com Diamante de 15 Pts",
         categoria: "pinginte",
         preco: 2028.60,
-        img: '/img/1075720_ponto-de-luz-de-ouro-com-diamante-de-15-pts-e-corrente_z1_636916410073540342.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1075720_ponto-de-luz-de-ouro-com-diamante-de-15-pts-e-corrente_z1_636916410073540342.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
 
@@ -38,7 +38,7 @@ const produtos = [
         title: "Gargantilha de ouro com Pingente Pássaros com 1 Diamante",
         categoria: "colar",
         preco:  1150.92,
-        img: '/img/993134_gargantilha-de-ouro-com-pingente-passaros-com-1-diamante_z1_636917124523546654.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/993134_gargantilha-de-ouro-com-pingente-passaros-com-1-diamante_z1_636917124523546654.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -46,7 +46,7 @@ const produtos = [
         title: "Óculos de Sol Constantim TS7008-C2",
         categoria: "acessorios",
         preco: 637.20,
-        img: '/img/1130225_oculos-de-sol-constantim-ts7008c2-joias-vip_z2_637515880680920122.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1130225_oculos-de-sol-constantim-ts7008c2-joias-vip_z2_637515880680920122.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -54,7 +54,7 @@ const produtos = [
         title: "Bolsa Feminina Phillip Kollin PK006-Blue-A8353-6",
         categoria: "acessorios",
         preco: 421.20,
-        img: '/img/1124562_bolsa-phillip-kollin-pk006-blue-a83536-joias-vip_z1_637329161006811024.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1124562_bolsa-phillip-kollin-pk006-blue-a83536-joias-vip_z1_637329161006811024.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -62,7 +62,7 @@ const produtos = [
         title: "Relógio Feminino Guess GW0355L2",
         categoria: "relogio",
         preco: 765.00,
-        img: '/img/1163116_relogio-feminino-guess-gw0355l2-joias-vip_z2_637909111768771437.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1163116_relogio-feminino-guess-gw0355l2-joias-vip_z2_637909111768771437.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -70,7 +70,7 @@ const produtos = [
         title: "Relógio Masculino Guess GW0264G3",
         categoria: "relogio",
         preco: 1431.00,
-        img: '/img/1163108_relogio-masculino-guess-gw0264g3-joias-vip_z2_637913175962084183.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1163108_relogio-masculino-guess-gw0264g3-joias-vip_z2_637913175962084183.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -78,7 +78,7 @@ const produtos = [
         title: "Bracelete Aramado com Mix de Gemas totalizando 9,50 Cts., em Ouro Amarelo",
         categoria: "pulseira",
         preco: 1576.08,
-        img: '/img/1142614_bracelete-aramado-com-mix-de-gemas-totalizando-950-cts-em-ouro-amarelo-joias-vip_z1_637544245070214075.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1142614_bracelete-aramado-com-mix-de-gemas-totalizando-950-cts-em-ouro-amarelo-joias-vip_z1_637544245070214075.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -86,7 +86,7 @@ const produtos = [
         title: "Gargantilha de Ouro - Berloques Costela de Adão",
         categoria: "corrente",
         preco: 1576.08,
-        img: '/img/1158837_gargantilha-de-ouro-berloques-costela-de-adao_z2_637715584243114383.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/1158837_gargantilha-de-ouro-berloques-costela-de-adao_z2_637715584243114383.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     },
     {
@@ -94,7 +94,7 @@ const produtos = [
         title: "Conjunto de ouro par de brincos e anel com Rubis",
         categoria: "conjunto",
         preco: 1576.08,
-        img: './img/1051875_conjunto-par-de-brincos-e-anel-com-rubis-em-ouro-amarelo-48257-48257_z1_636420376953175945.jpg',
+        img: '.https://samarabilby.github.io/jv-pdp/img/051875_conjunto-par-de-brincos-e-anel-com-rubis-em-ouro-amarelo-48257-48257_z1_636420376953175945.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     }
 ];
