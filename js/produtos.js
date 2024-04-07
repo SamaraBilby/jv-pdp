@@ -94,7 +94,7 @@ const produtos = [
         title: "Conjunto de ouro par de brincos e anel com Rubis",
         categoria: "conjunto",
         preco: 1576.08,
-        img: '.https://samarabilby.github.io/jv-pdp/img/051875_conjunto-par-de-brincos-e-anel-com-rubis-em-ouro-amarelo-48257-48257_z1_636420376953175945.jpg',
+        img: 'https://samarabilby.github.io/jv-pdp/img/051875_conjunto-par-de-brincos-e-anel-com-rubis-em-ouro-amarelo-48257-48257_z1_636420376953175945.jpg',
         descricao: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium nulla maiores quis. Quasi quo possimus exercitationem, repudiandae voluptatum odio magnam quam"
     }
 ];
