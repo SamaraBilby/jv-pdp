@@ -693,7 +693,7 @@ function procurandoInput(event) {
 
 function productsFilterInSearch(encontrandoInput) {
     return produtos.filter((produtos) => {
-        return produtos.categoria.toLowerCase().includes(encontrandoInput.toLowerCase());
+        return produtos.title.toLowerCase().includes(encontrandoInput.toLowerCase());
     });
 
 }
