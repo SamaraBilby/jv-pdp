@@ -258,12 +258,12 @@ footer .midias-sociais a{
 
 @media (max-width: 360px) {
     .grid-product .col .card {
-        height: 370px!important;
+        height: 350px!important;
         width: 9rem;
     }
     .grid-product .card-body .card-title{
         font-size: 0.9rem;
-        line-height: 20px;
+        line-height: 23px;
     }
     .grid-product .card-body a{
         font-size: 0.8rem;

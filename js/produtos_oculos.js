@@ -396,7 +396,6 @@ function render(produtos){
                         <img src='${produto.img}' class="card-img-top" alt='${produto.title}'>
                         <div class="card-body">
                             <h5 class="card-title nome-produto" title='${produto.title}'>${produto.title}</h5>
-                            <p class="oculos-color">Lentes: ${produto.color}</p>
                             <p class="card-text preco-de"> <span>De:</span> ${formatter.format(produto.old_price)}</p>
                             <p class="preco-por"><span>10x </span>${formatter.format(produto.price)} <span>sem juros</span></p>
                             <a href="#" class="btn btn-primary buy-btn">COMPRAR</a>

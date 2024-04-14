@@ -107,7 +107,7 @@ nav.search-nav form .btn-outline-success {
     display: none;
 }
 .grid-product .col .card {
-    height: 500px!important;
+    height: 450px!important;
     width: 15rem;
 }
 .grid-product .card-body .card-title{
@@ -264,6 +264,9 @@ footer .midias-sociais a{
     .grid-product .card-body .card-title{
         font-size: 0.9rem;
         line-height: 20px;
+        height: 61px;
+        max-height: 61px;
+        
     }
     .grid-product .card-body a{
         font-size: 0.8rem;
