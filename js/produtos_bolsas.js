@@ -133,18 +133,6 @@ const produtos = [
         description: ""
     },
     {
-        id: 11,
-        code: 76594,
-        title: "Bolsa Feminina Phillip Kollin PK009-Brown",
-        category: "Acessórios",
-        subcategory: "Bolsa",
-        model:"PK009",
-        old_price:1188.00,
-        price: 29.00,
-        img: './img/product/bolsas/bolsa-phillip-kollin-pk009-brown.png',
-        description: ""
-    },
-    {
         id: 12,
         code: 76595,
         title: "Bolsa Feminina Phillip Kollin PK009-White-11856-S",
@@ -171,7 +159,7 @@ const produtos = [
     {
         id: 14,
         code: 102161,
-        title: "olsa Feminina Phillip Kollin YZ2010022-Apricot",
+        title: "Bolsa Feminina Phillip Kollin YZ2010022-Apricot",
         category: "Acessórios",
         subcategory: "Bolsa",
         model:"YZ2010022",
@@ -206,7 +194,7 @@ const produtos = [
     },
     {
         id: 17,
-        code: 216811,
+        code: 102012,
         title: "Bolsa Feminina Phillip Kollin YZ2100851-2M Black + Carteira Creme",
         category: "Acessórios",
         subcategory: "Bolsa",
@@ -326,7 +314,7 @@ const produtos = [
     }, 
     {
         id: 27,
-        code: 216851,
+        code: 102192,
         title: "Bolsa Feminina Phillip Kollin YZ2120501-Blue",
         category: "Acessórios",
         subcategory: "Bolsa",
@@ -374,7 +362,7 @@ const produtos = [
     }, 
     {
         id: 31,
-        code: 216814,
+        code: 102153,
         title: "Bolsa Feminina Phillip Kollin YZ2120505L-Blue",
         category: "Acessórios",
         subcategory: "Bolsa",
@@ -398,7 +386,7 @@ const produtos = [
     }, 
     {
         id: 33,
-        code: 216840,
+        code: 102181,
         title: "Bolsa Feminina Phillip Kollin YZ2120675-3-Blue + Carteira Preta",
         category: "Acessórios",
         subcategory: "Bolsa",
