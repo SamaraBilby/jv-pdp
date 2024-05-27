@@ -106,6 +106,27 @@ nav.search-nav form .btn-outline-success {
 .fullbanner-mobile section {
     display: none;
 }
+
+.filter-btn {
+    border: 2px solid #6c5393;
+    color: #6c5393;
+    margin: 0 5px;
+    transition: all 0.3s ease;
+    background-color: #ffffff!important;
+}
+
+.filter-btn.selected,
+.filter-btn:focus {
+    border: 2px solid #6c5393!important;
+    background-color: #6c5393!important;
+    color: #ffffff!important;
+}
+
+.filter-btn:hover {
+    border: 2px solid #6c5393!important;
+    background-color: #6c5393!important;
+    color: #ffffff!important;
+}
 .grid-product .col .card {
     height: 430px!important;
     width: 15rem;
