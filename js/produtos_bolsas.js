@@ -1085,7 +1085,7 @@ function render(produtos){
                             <h5 class="card-title nome-produto" title='${produto.title}'>${produto.title}</h5>
                             <p class="card-text preco-de"> <span>De:</span> ${formatter.format(produto.old_price)}</p>
                             <p class="preco-por"><span>10x </span>${formatter.format(produto.price)} <span>sem juros</span></p>
-                            <a href="#" class="btn btn-primary buy-btn">COMPRAR</a>
+                            <a href="https://www.joiasvip.com.br/bolsa-feminina-phillip-kollin-yz96001-8-pink-p1165337?productID=1165339" class="btn btn-primary buy-btn">COMPRAR</a>
                         </div>
                     </div>
                 </div>
@@ -1097,6 +1097,17 @@ function render(produtos){
 
     produtosContainer.innerHTML= lista
 };
+
+// Adicionar evento de clique ao botão "COMPRAR"
+document.addEventListener('DOMContentLoaded', (event) => {
+    produtosContainer.addEventListener('click', (event) => {
+        if (event.target.classList.contains('buy-btn')) {
+            event.preventDefault();
+            const url = event.target.href;
+            window.open(url, '_blank'); 
+        }
+    });
+});
 
 
 
